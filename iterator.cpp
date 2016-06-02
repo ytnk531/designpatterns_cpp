@@ -1,6 +1,14 @@
+/*
+ * adapter.cpp
+ * http://www.techscore.com/tech/DesignPattern/Iterator/Iterator1.html/
+ * IteratorパターンのC++による実装
+ * 2016/06/02 Y.Tanaka
+ */
+
 #include <iostream>
 #include <string>
 #include <vector>
+
 using namespace std;
 
 enum sex_t {male, female};
